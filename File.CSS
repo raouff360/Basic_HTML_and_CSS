@@ -1,0 +1,11 @@
+ul {
+	background-color: pink;
+	color: blue;
+} 
+ol {
+	background-color: silver;
+	color: green
+}
+ul {
+	text-shadow: 0 0 3px #FF0000;
+}
